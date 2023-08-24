@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @edd004
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning HTML, CSS, Javascript.
-- 💞️ I’m looking to collaborate on flexible projects where i can learn.
+- 👋 Hi, I’m @edengineering
+- 👀 I’m a DevOps Engineer
+- ☁️ Cloud Engineer working with GCP, AWS, Azure 
+- 🌱 Have been working with Blockchain Networks with permisioned solutions.
+- 💞️ I’m looking to collaborate on flexible projects to keep learning.
 - 📫 How to reach me, send me a message.
 
 <!---
